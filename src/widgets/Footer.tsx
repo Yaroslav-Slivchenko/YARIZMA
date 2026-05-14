@@ -1,4 +1,4 @@
-import { Box, Button, Center, Circle, Container, Flex, Group, HStack, Image, Link, Span, Text, VStack } from "@chakra-ui/react"
+import { Box, Button, Center, Circle, Container, Flex, Group, Image, Link, Text, VStack } from "@chakra-ui/react"
 import logo from '../assets/logo.svg'
 import phone from '../assets/phone.svg'
 import address from '../assets/address.svg'

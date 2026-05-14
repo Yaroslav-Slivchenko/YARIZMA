@@ -4,7 +4,9 @@ import { Swiper, SwiperSlide } from "swiper/react"
 import { EffectCoverflow } from "swiper/modules"
 import type {Swiper as SwiperType} from 'swiper'
 
+// @ts-ignore
 import 'swiper/css'
+// @ts-ignore
 import 'swiper/css/effect-coverflow'
 
 

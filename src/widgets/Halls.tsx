@@ -1,11 +1,13 @@
-import { useEffect, useEffectEvent, useRef, useState } from "react"
+import { useEffect, useRef, useState } from "react"
 import { Button, Container, Flex, Group, Heading, Image, Mark, Presence, Tabs, Text, VStack } from "@chakra-ui/react"
 import { Swiper, SwiperSlide } from "swiper/react"
 import { Thumbs } from 'swiper/modules'
 
 import type {Swiper as SwiperType} from 'swiper'
 
+// @ts-ignore
 import 'swiper/css'
+// @ts-ignore
 import 'swiper/css/thumbs'
 
 
